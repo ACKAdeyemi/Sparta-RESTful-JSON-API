@@ -1,24 +1,15 @@
-# README
+# <p align="center"> Sparta RESTful JSON API </p>
+<hr>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Task:
 
-Things you may want to cover:
+This is a homework task to be completed with a main purpose of providing context towards API and Integration testing in Rails. This task will be completed by following this [RESTful JSON API tutorial](https://scotch.io/@austin) by Austin Kabiru
 
-* Ruby version
+This task makes use of:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **Rails 5** (to build API)
+* **RSpec** (testing framework)
+* **Factory Bot** (fixtures replacement with a more straightforward syntax)
+* **Shoulda Matchers** (provides RSpec with additional matchers)
+* **Database Cleaner** (cleans test database to ensure a clean state in each test suite)
+* **Faker gem** (library that generates random fake data)
